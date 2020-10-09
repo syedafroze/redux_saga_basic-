@@ -1,0 +1,25 @@
+{
+  "name": "redux-saga-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "node_module": "0.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.1.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.5",
+    "redux-saga": "^0.16.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+ 
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
